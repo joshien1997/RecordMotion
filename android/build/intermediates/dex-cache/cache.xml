@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_27dea40112f3add98c533b6d4fa0dde246a65f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_e66d106f3743f69b136ef136ab2f6f7e54dd9a3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_aeb6f30499cb57a285c52431b43e47cda820f4f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_22cab2a5f0a4ac16914234641d106780523cd0c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_eae3dd06c32b3f7c685d812e682da7c270af6ef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_dc846567775ce8bcc59a48966aca7e9bbe72c278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_661c0520809947574a8d92ac86679f17c56b4fd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_c07703fd5abd9b4e774c9fab59620cec82588ced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_f070c2024b15427a2e7f996b3beb11f709f40d14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_3e7ff9aa4cc8fe3ffb185b6020a2a8017ad79330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_8c8136d94645b74b0b967111917fb73943e727f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_c3bd35b4260e4a39556c443612b5c05d0f69c9af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_38609f31ae76662271fe600075d13f23adb43d83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_cd8a0f937be7ab5a0f04c3dfeaef5280efd31ef1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_bc2cc6d2c99b5dc7afde17f104b1a6737539131f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_112f428510937ab3a3f33a57b4fadcc0b39e4919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_7dd1f0dd4685cc249a53b9bacb0ae2186b54cea1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_4193368fe6bff63c0d8eab3f083d0d1a63af9551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_7583d48724339ecb39366fb51de085e3205c2fc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_711fdd33789503a27fb85c63679cff8eb3f7c703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hienbv/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/hienbv/Desktop/Test/MotionRecord/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_4c5d60a0c19002b66c5c4d84889afcd84adf639f.jar" />
+    </item>
+
+</items>
